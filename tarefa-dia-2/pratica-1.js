@@ -8,3 +8,8 @@ typeof email String
 typeof profissao String
 typeof idade Number
 typeof lugar dos sonhos String
+console.log(nome)
+console.log(email)
+console.log(profissao)
+console.log(idade)
+console.log(lugar dos sonhos)
